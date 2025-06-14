@@ -1,6 +1,6 @@
-# AIG Shields Up - Cybersecurity Virtual Experience Program
+# AIG Shields Up - Security Analyst Job Simulation
 
-This repository contains my completed tasks for the **AIG Cybersecurity Job Simulation** offered via Forage. The simulation involved real-world security scenarios like vulnerability response and basic incident response automation.
+This repository contains my completed tasks for the **AIG Security Analyst Job Simulation** offered via Forage. The simulation involved real-world security scenarios like vulnerability response and basic incident response automation.
 
 ## Contents
 
@@ -13,13 +13,10 @@ This repository contains my completed tasks for the **AIG Cybersecurity Job Simu
 - Demonstrates automation and scripting skills for real-world cybersecurity scenarios.
 
 ### 📄 Final Report
-- The full documentation of tasks, steps taken, and outputs from the job simulation is included in the `Forage_Report` folder.
+- The full documentation of tasks, steps taken, and outputs from the job simulation is included in the '`AIG-Security-Analyst-Report` docx file'.
 
 ## 💻 Technologies Used
 - Python 3
 - RockYou.txt dictionary (common password list)
 - ZIP file handling (`zipfile` module)
 - Security concepts: CVEs, brute-forcing, patch advisory
-
-## 🏁 Outcome
-Successfully completed the AIG Cybersecurity Simulation via Forage. This project reflects core skills in incident response, scripting, and vulnerability communication.
