@@ -15,15 +15,11 @@ This repository contains my completed tasks for the **AIG Cybersecurity Job Simu
 ### 📄 Final Report
 - The full documentation of tasks, steps taken, and outputs from the job simulation is included in the `Forage_Report` folder.
 
----
-
 ## 💻 Technologies Used
 - Python 3
 - RockYou.txt dictionary (common password list)
 - ZIP file handling (`zipfile` module)
 - Security concepts: CVEs, brute-forcing, patch advisory
-
----
 
 ## 🏁 Outcome
 Successfully completed the AIG Cybersecurity Simulation via Forage. This project reflects core skills in incident response, scripting, and vulnerability communication.
