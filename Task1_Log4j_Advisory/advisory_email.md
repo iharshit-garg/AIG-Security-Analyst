@@ -13,4 +13,5 @@ Apache Log4j has been identified with a vulnerability which has highest severity
 For any questions or issues, don’t hesitate to reach out to us.
 
 Kind regards,
+
 AIG Cyber & Information Security Team
