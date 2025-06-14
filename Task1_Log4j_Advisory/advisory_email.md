@@ -1,5 +1,7 @@
 **From:** AIG Cyber & Information Security Team
+
 **To:** Product Development Team 
+
 **Subject:** Security Advisory concerning Apache Log4j for Product Development Staging Environment 
 
 Hello John Doe,
