@@ -13,7 +13,7 @@ This repository contains my completed tasks for the **AIG Security Analyst Job S
 - Demonstrates automation and scripting skills for real-world cybersecurity scenarios.
 
 ### 📄 Final Report
-- The full documentation of tasks, steps taken, and outputs from the job simulation is included in the '`AIG-Security-Analyst-Report` docx file'.
+- The full documentation of tasks, steps taken, and outputs from the job simulation is included in the `AIG-Security-Analyst-Report` docx file.
 
 ## 💻 Technologies Used
 - Python 3
